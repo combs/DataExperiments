@@ -6,6 +6,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ![](//rock1--article_image.jpg)
 
+![](//rock1--article_image.jpg)
+
 ---
 
 
