@@ -8,7 +8,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ![](//rock1--article_image.jpg)
 ![](//31001_553.jpg)
-
+![](//rock1--article_image.jpg)
 
 ---
 
